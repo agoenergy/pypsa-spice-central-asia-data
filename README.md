@@ -59,7 +59,7 @@ The `base_config_template.yaml` file contains the default configuration for this
 
 > **Note:** For a detailed description of the configuration file structure, please refer to the [model builder configuration](https://agoenergy.github.io/pypsa-spice/getting-started/input-data/model-builder-configuration/).
 
-### Step 4: Run the model and explore the output
+### Step 4: Run the model
 
 In `base_config.yaml`, the `input_scenario_name` variable specifies the input scenario folder to use, and `output_scenario_name` specifies the folder where output data will be saved.
 
@@ -76,6 +76,18 @@ snakemake -call
 ```
 
 > **Note:** For a detailed description of how to execute the model, please refer to the [model builder execution guide](https://agoenergy.github.io/pypsa-spice/getting-started/input-data/model-builder-execution/).
+
+### Step 5: Explore the output and visualisation
+
+You can run streamlit app with the following command to see the dynamic charts in your web browswer (local-host).
+
+```bash
+streamlit run pypsa-spice-vis/main.py
+```
+
+After running, you will be able to see a local web link/url in the terminal. Simply open the link/url in your browser and you will be able to see the visualisations.
+
+> **Note:** For a detailed description of the output file structure and pypsa-spice-vis tool, please refer to the [PyPSA-SPICE-VIS](https://agoenergy.github.io/pypsa-spice/visualisation-tool/pypsa-spice-vis/).
 
 ## Citing PyPSA-SPICE
 
