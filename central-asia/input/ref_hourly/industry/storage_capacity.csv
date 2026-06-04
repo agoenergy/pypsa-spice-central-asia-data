@@ -1,0 +1,12 @@
+country,node,type,carrier,bus,name,p_nom,p_nom_extendable,p_nom_max_2023,p_nom_max_2030,p_nom_max_2035,p_nom_min_2023,p_nom_min_2030,p_nom_min_2035
+KG,KG_BA,INLHSTOR,Low_Heat,KG_OS_IND-LH,KG_OS_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_CH,INLHSTOR,Low_Heat,KG_TL_IND-LH,KG_TL_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_JA,INLHSTOR,Low_Heat,KG_YK_IND-LH,KG_YK_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KZ_NR,INLHSTOR,Low_Heat,KG_BA_IND-LH,KG_BA_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KZ_SO,INLHSTOR,Low_Heat,KG_CH_IND-LH,KG_CH_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KZ_WS,INLHSTOR,Low_Heat,KG_JA_IND-LH,KG_JA_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,UZ_UZ,INLHSTOR,Low_Heat,KG_NR_IND-LH,KG_NR_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,KG_NR,INLHSTOR,Low_Heat,KZ_NR_IND-LH,KZ_NR_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,KG_OS,INLHSTOR,Low_Heat,KZ_SO_IND-LH,KZ_SO_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,KG_TL,INLHSTOR,Low_Heat,KZ_WS_IND-LH,KZ_WS_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+UZ,KG_YK,INLHSTOR,Low_Heat,UZ_UZ_IND-LH,UZ_UZ_IND-LH_INLHSTOR,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here

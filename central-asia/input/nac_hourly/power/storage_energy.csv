@@ -1,0 +1,10 @@
+country,bus,store,type,carrier,standing_loss,e_nom_extendable,e_nom,max_store_2023,max_store_2030,max_store_2035
+KG,KG_CO2STORN,KG_CO2STORN_STOR,CO2STOR,Co2stor,0,TRUE,0,inf,inf,inf
+KG,KG_KG_BATSN,KG_KG_BATSN_STOR,BATS,Electricity,0,TRUE,0,inf,inf,inf
+KZ,KZ_NR_BATSN,KZ_NR_BATSN_STOR,BATS,Electricity,0,TRUE,0,inf,inf,inf
+KZ,KZ_SO_BATSN,KZ_SO_BATSN_STOR,BATS,Electricity,0,TRUE,0,inf,inf,inf
+KZ,KZ_WS_BATSN,KZ_WS_BATSN_STOR,BATS,Electricity,0,TRUE,0,inf,inf,inf
+KZ,KZ_CO2STORN,KZ_CO2STORN_STOR,CO2STOR,Co2stor,0,TRUE,0,inf,inf,inf
+UZ,UZ_CO2STORN,UZ_CO2STORN_STOR,CO2STOR,Co2stor,0,TRUE,0,inf,inf,inf
+UZ,UZ_UZ_BATSN,UZ_UZ_BATSN_STOR,BATS,Electricity,0,TRUE,0,inf,inf,inf
+UZ,UZ_UZ_HPHSN,UZ_UZ_HPHSN_STOR,HPHS,Electricity,0,TRUE,0,inf,inf,inf

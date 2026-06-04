@@ -1,0 +1,12 @@
+country,link,bus0,bus1,bus2,bus3,type,carrier,p_nom,p_nom_extendable,p_nom_max_2023,p_nom_max_2030,p_nom_max_2035,p_nom_min_2023,p_nom_min_2030,p_nom_min_2035
+KZ,DAC_at_KZ_NR_HVELEC,KZ_ATMP,KZ_CO2STORN,KZ_NR_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,DAC_at_KZ_SO_HVELEC,KZ_ATMP,KZ_CO2STORN,KZ_SO_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,DAC_at_KZ_WS_HVELEC,KZ_ATMP,KZ_CO2STORN,KZ_WS_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+UZ,DAC_at_UZ_UZ_HVELEC,UZ_ATMP,UZ_CO2STORN,UZ_UZ_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,DAC_at_KG_BA_HVELEC,KG_ATMP,KG_CO2STORN,KG_BA_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,DAC_at_KG_CH_HVELEC,KG_ATMP,KG_CO2STORN,KG_CH_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,DAC_at_KG_JA_HVELEC,KG_ATMP,KG_CO2STORN,KG_JA_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,DAC_at_KG_NR_HVELEC,KG_ATMP,KG_CO2STORN,KG_NR_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,DAC_at_KG_OS_HVELEC,KG_ATMP,KG_CO2STORN,KG_OS_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,DAC_at_KG_TL_HVELEC,KG_ATMP,KG_CO2STORN,KG_TL_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,DAC_at_KG_YK_HVELEC,KG_ATMP,KG_CO2STORN,KG_YK_HVELEC,,DAC,CO2,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here

@@ -1,0 +1,7 @@
+country,node,type,carrier,bus,name,p_nom,p_nom_extendable,p_nom_max_2023,p_nom_max_2030,p_nom_max_2035,p_nom_min_2023,p_nom_min_2030,p_nom_min_2035
+KG,KG_KG,BATS,Electricity,KG_KG_HVELEC,KG_KG_HVELEC_BATS,0,FALSE,0,inf,inf,0,0,0
+KZ,KZ_NR,BATS,Electricity,KZ_NR_HVELEC,KZ_NR_HVELEC_BATS,0,FALSE,0,inf,inf,0,0,0
+KZ,KZ_SO,BATS,Electricity,KZ_SO_HVELEC,KZ_SO_HVELEC_BATS,0,FALSE,0,inf,inf,0,0,0
+KZ,KZ_WS,BATS,Electricity,KZ_WS_HVELEC,KZ_WS_HVELEC_BATS,0,FALSE,0,inf,inf,0,0,0
+UZ,UZ_UZ,BATS,Electricity,UZ_UZ_HVELEC,UZ_UZ_HVELEC_BATS,0,FALSE,0,inf,inf,0,0,0
+UZ,UZ_UZ,HPHS,Electricity,UZ_UZ_HVELEC,UZ_UZ_HVELEC_HPHS,1600,TRUE,0,2700,200,0,2700,200

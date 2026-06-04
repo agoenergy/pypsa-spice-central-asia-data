@@ -1,0 +1,13 @@
+﻿country,technology,technology_nomenclature,carrier,class,e_nom_per_ev,p_nom_char,efficiency
+KZ,EVST-PUB,Battery EV public storage,Electricity,Store,0.05,,
+KZ,EVST-PRV,Battery EV private storage,Electricity,Store,0.06,,
+KZ,EVCH-PUB,EV charger public,Electricity,Link,,0.011,0.95
+KZ,EVCH-PRV,EV charger private,Electricity,Link,,0.011,0.95
+UZ,EVST-PUB,Battery EV public storage,Electricity,Store,0.05,,
+UZ,EVST-PRV,Battery EV private storage,Electricity,Store,0.06,,
+UZ,EVCH-PUB,EV charger public,Electricity,Link,,0.011,0.95
+UZ,EVCH-PRV,EV charger private,Electricity,Link,,0.011,0.95
+KG,EVST-PUB,Battery EV public storage,Electricity,Store,0.05,,
+KG,EVST-PRV,Battery EV private storage,Electricity,Store,0.06,,
+KG,EVCH-PUB,EV charger public,Electricity,Link,,0.011,0.95
+KG,EVCH-PRV,EV charger private,Electricity,Link,,0.011,0.95

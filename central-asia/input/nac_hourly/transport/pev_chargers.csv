@@ -1,0 +1,23 @@
+country,link,bus0,bus1,type,carrier,p_max_pu,num_ch_2023,num_ch_2030,num_ch_2035
+KZ,KZ_NR_LVELEC_to_KZ_NR_TRAN-PUB_by_EVCH-PUB,KZ_NR_LVELEC,KZ_NR_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KZ,KZ_SO_LVELEC_to_KZ_SO_TRAN-PUB_by_EVCH-PUB,KZ_SO_LVELEC,KZ_SO_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KZ,KZ_WS_LVELEC_to_KZ_WS_TRAN-PUB_by_EVCH-PUB,KZ_WS_LVELEC,KZ_WS_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KZ,KZ_NR_LVELEC_to_KZ_NR_TRAN-PRV_by_EVCH-PRV,KZ_NR_LVELEC,KZ_NR_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KZ,KZ_SO_LVELEC_to_KZ_SO_TRAN-PRV_by_EVCH-PRV,KZ_SO_LVELEC,KZ_SO_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KZ,KZ_WS_LVELEC_to_KZ_WS_TRAN-PRV_by_EVCH-PRV,KZ_WS_LVELEC,KZ_WS_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+UZ,UZ_UZ_LVELEC_to_UZ_UZ_TRAN-PUB_by_EVCH-PUB,UZ_UZ_LVELEC,UZ_UZ_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+UZ,UZ_UZ_LVELEC_to_UZ_UZ_TRAN-PRV_by_EVCH-PRV,UZ_UZ_LVELEC,UZ_UZ_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_BA_LVELEC_to_KG_BA_TRAN-PUB_by_EVCH-PUB,KG_BA_LVELEC,KG_BA_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_CH_LVELEC_to_KG_CH_TRAN-PUB_by_EVCH-PUB,KG_CH_LVELEC,KG_CH_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_JA_LVELEC_to_KG_JA_TRAN-PUB_by_EVCH-PUB,KG_JA_LVELEC,KG_JA_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_NR_LVELEC_to_KG_NR_TRAN-PUB_by_EVCH-PUB,KG_NR_LVELEC,KG_NR_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_OS_LVELEC_to_KG_OS_TRAN-PUB_by_EVCH-PUB,KG_OS_LVELEC,KG_OS_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_TL_LVELEC_to_KG_TL_TRAN-PUB_by_EVCH-PUB,KG_TL_LVELEC,KG_TL_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_YK_LVELEC_to_KG_YK_TRAN-PUB_by_EVCH-PUB,KG_YK_LVELEC,KG_YK_TRAN-PUB,EVCH-PUB,Electricity,EVCH-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_BA_LVELEC_to_KG_BA_TRAN-PRV_by_EVCH-PRV,KG_BA_LVELEC,KG_BA_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_CH_LVELEC_to_KG_CH_TRAN-PRV_by_EVCH-PRV,KG_CH_LVELEC,KG_CH_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_JA_LVELEC_to_KG_JA_TRAN-PRV_by_EVCH-PRV,KG_JA_LVELEC,KG_JA_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_NR_LVELEC_to_KG_NR_TRAN-PRV_by_EVCH-PRV,KG_NR_LVELEC,KG_NR_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_OS_LVELEC_to_KG_OS_TRAN-PRV_by_EVCH-PRV,KG_OS_LVELEC,KG_OS_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_TL_LVELEC_to_KG_TL_TRAN-PRV_by_EVCH-PRV,KG_TL_LVELEC,KG_TL_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_YK_LVELEC_to_KG_YK_TRAN-PRV_by_EVCH-PRV,KG_YK_LVELEC,KG_YK_TRAN-PRV,EVCH-PRV,Electricity,EVCH-PRV,Please fill here,Please fill here,Please fill here

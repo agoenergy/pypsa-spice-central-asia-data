@@ -1,0 +1,23 @@
+country,node,type,carrier,bus,name,num_ev_2023,num_ev_2030,num_ev_2035
+KG,KG_BA,EVST-PRV,Electricity,KG_BA_TRAN-PRV,KG_BA_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_BA,EVST-PUB,Electricity,KG_BA_TRAN-PUB,KG_BA_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_CH,EVST-PRV,Electricity,KG_CH_TRAN-PRV,KG_CH_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_CH,EVST-PUB,Electricity,KG_CH_TRAN-PUB,KG_CH_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_JA,EVST-PRV,Electricity,KG_JA_TRAN-PRV,KG_JA_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_JA,EVST-PUB,Electricity,KG_JA_TRAN-PUB,KG_JA_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_NR,EVST-PRV,Electricity,KG_NR_TRAN-PRV,KG_NR_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_NR,EVST-PUB,Electricity,KG_NR_TRAN-PUB,KG_NR_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_OS,EVST-PRV,Electricity,KG_OS_TRAN-PRV,KG_OS_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_OS,EVST-PUB,Electricity,KG_OS_TRAN-PUB,KG_OS_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_TL,EVST-PRV,Electricity,KG_TL_TRAN-PRV,KG_TL_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_TL,EVST-PUB,Electricity,KG_TL_TRAN-PUB,KG_TL_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KG,KG_YK,EVST-PRV,Electricity,KG_YK_TRAN-PRV,KG_YK_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KG,KG_YK,EVST-PUB,Electricity,KG_YK_TRAN-PUB,KG_YK_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KZ,KZ_NR,EVST-PRV,Electricity,KZ_NR_TRAN-PRV,KZ_NR_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KZ,KZ_NR,EVST-PUB,Electricity,KZ_NR_TRAN-PUB,KZ_NR_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KZ,KZ_SO,EVST-PRV,Electricity,KZ_SO_TRAN-PRV,KZ_SO_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KZ,KZ_SO,EVST-PUB,Electricity,KZ_SO_TRAN-PUB,KZ_SO_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+KZ,KZ_WS,EVST-PRV,Electricity,KZ_WS_TRAN-PRV,KZ_WS_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+KZ,KZ_WS,EVST-PUB,Electricity,KZ_WS_TRAN-PUB,KZ_WS_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here
+UZ,UZ_UZ,EVST-PRV,Electricity,UZ_UZ_TRAN-PRV,UZ_UZ_TRAN-PRV_EVST-PRV,Please fill here,Please fill here,Please fill here
+UZ,UZ_UZ,EVST-PUB,Electricity,UZ_UZ_TRAN-PUB,UZ_UZ_TRAN-PUB_EVST-PUB,Please fill here,Please fill here,Please fill here

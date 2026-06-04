@@ -1,0 +1,18 @@
+country,link,bus0,bus1,bus2,bus3,type,carrier,p_nom,p_nom_extendable,p_nom_max_2023,p_nom_max_2030,p_nom_max_2035,p_nom_min_2023,p_nom_min_2030,p_nom_min_2035
+KZ,KZ_NR_HVELEC_to_KZ_HYDN_by_ELTZ,KZ_NR_HVELEC,KZ_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,KZ_SO_HVELEC_to_KZ_HYDN_by_ELTZ,KZ_SO_HVELEC,KZ_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,KZ_WS_HVELEC_to_KZ_HYDN_by_ELTZ,KZ_WS_HVELEC,KZ_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,KZ_HYDN_to_KZ_OILN_by_FITR,KZ_HYDN,KZ_OILN,KZ_CO2STORN,,FITR,Oil,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KZ,KZ_HYDN_to_KZ_GASN_by_METH,KZ_HYDN,KZ_GASN,KZ_CO2STORN,,METH,Gas,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+UZ,UZ_UZ_HVELEC_to_UZ_HYDN_by_ELTZ,UZ_UZ_HVELEC,UZ_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+UZ,UZ_HYDN_to_UZ_OILN_by_FITR,UZ_HYDN,UZ_OILN,UZ_CO2STORN,,FITR,Oil,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+UZ,UZ_HYDN_to_UZ_GASN_by_METH,UZ_HYDN,UZ_GASN,UZ_CO2STORN,,METH,Gas,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_BA_HVELEC_to_KG_HYDN_by_ELTZ,KG_BA_HVELEC,KG_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_CH_HVELEC_to_KG_HYDN_by_ELTZ,KG_CH_HVELEC,KG_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_JA_HVELEC_to_KG_HYDN_by_ELTZ,KG_JA_HVELEC,KG_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_NR_HVELEC_to_KG_HYDN_by_ELTZ,KG_NR_HVELEC,KG_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_OS_HVELEC_to_KG_HYDN_by_ELTZ,KG_OS_HVELEC,KG_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_TL_HVELEC_to_KG_HYDN_by_ELTZ,KG_TL_HVELEC,KG_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_YK_HVELEC_to_KG_HYDN_by_ELTZ,KG_YK_HVELEC,KG_HYDN,,,ELTZ,Hyd,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_HYDN_to_KG_OILN_by_FITR,KG_HYDN,KG_OILN,KG_CO2STORN,,FITR,Oil,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
+KG,KG_HYDN_to_KG_GASN_by_METH,KG_HYDN,KG_GASN,KG_CO2STORN,,METH,Gas,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here,Please fill here
