@@ -95,7 +95,7 @@ After running, you will be able to see a local web link/url in the terminal. Sim
 
 > **Note:** For a detailed description of the output file structure and pypsa-spice-vis tool, please refer to the [PyPSA-SPICE-VIS](https://agoenergy.github.io/pypsa-spice/visualisation-tool/pypsa-spice-vis/).
 
-## Citing PyPSA-SPICE
+## Citing this dataset
 
 Please use the citation below:
 
