@@ -99,7 +99,7 @@ After running, you will be able to see a local web link/url in the terminal. Sim
 
 Please use the citation below:
 
-- Agora Energiewende and University of Central Asia (2026): Cross-border power system integration in Central Asia. Insights from PyPSA-SPICE Central Asia model.
+- Agora Energiewende and University of Central Asia (2026): Cross-border power system integration in Central Asia. Insights from the PyPSA-SPICE Central Asia model.
 
 ## License
 
