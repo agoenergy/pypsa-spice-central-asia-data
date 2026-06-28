@@ -4,11 +4,11 @@ SPDX-FileCopyrightText: PyPSA-SPICE Developers
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
-# Dataset for PyPSA-SPICE Central Asia Power System Model
+# Dataset for Cross-Border Power System Integration Analysis in Central Asia Using PyPSA-SPICE
 
-This data repository is used in the PyPSA-SPICE Central Asia power system model, built on [PyPSA-SPICE](https://agoenergy.github.io/pypsa-spice/), an open-source model builder for evaluating national mid- to long-term energy scenarios through least-cost optimization within the [PyPSA](https://pypsa.org/) framework.
+This data repository is used in the [Cross-Border Power System Integration Analysis](https://www.agora-energiewende.org/publications/cross-border-power-system-integration-in-central-asia) study, built on [PyPSA-SPICE](https://agoenergy.github.io/pypsa-spice/), an open-source model builder for evaluating national mid- to long-term energy scenarios through least-cost optimization within the [PyPSA](https://pypsa.org/) framework.
 
-> **Note:** The model covers the **power sector only and does not include district heating**. The results presented in the [publication](https://www.agora-energiewende.org/publications) are compatible with PyPSA-SPICE version [v1.1.1](https://agoenergy.github.io/pypsa-spice/releases/#v111-2026-02-24) with hourly resolution.
+> **Note:** The model covers the **power sector only and does not include district heating**. The results presented in the [study]([https://www.agora-energiewende.org/publications](https://www.agora-energiewende.org/publications/cross-border-power-system-integration-in-central-asia)) are compatible with PyPSA-SPICE version [v1.1.1](https://agoenergy.github.io/pypsa-spice/releases/#v111-2026-02-24) with hourly resolution.
 
 If you intend to run the model with this dataset, please follow the steps below to complete the setup.
 
